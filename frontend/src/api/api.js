@@ -1,6 +1,6 @@
 import axios from "axios"
 const API = axios.create({
-    baseURL: "https://todosapplication-backend.vercel.app"
+    baseURL: "https://todos-apps-omega.vercel.app"
 
 
 })
