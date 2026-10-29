@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+input {
+    border: 1px solid gray;
+    padding: 4px;
+}
+
+
+textarea {
+    border: 1px solid gray;
+    padding: 4px;
+
+}
+
+form {
+    border: 1px solid rgb(224, 220, 220);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
